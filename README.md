@@ -41,3 +41,10 @@ listener 1883
 protocol websockets
 
 allow_anonymous true
+
+Current steps
+=============
+1. Install and configure a MQTT broker.
+2. Run the a scubscriber.
+3. Run the publisher.;p
+4. Keep fingers crossed all the time. 
