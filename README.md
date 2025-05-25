@@ -49,4 +49,10 @@ Current steps
 1. Install and configure a MQTT broker.
 2. Run the a scubscriber.
 3. Run the publisher.;p
-4. Keep fingers crossed all the time. 
+4. Keep fingers crossed all the time.
+
+Next Steps
+==========
+1. Enable security
+2. Build a UI around this data.
+3. Publish the data through a device, say Raspberry pi.
