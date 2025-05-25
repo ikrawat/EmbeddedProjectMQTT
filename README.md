@@ -7,11 +7,13 @@ After diving into the Protocol itself, I have given this initial try.
 Some notes-
 ----------
 I am disregarding QoS part.
-
 I have used websockets protocol, instead of mqtt protocol. -> Wanted to use javascript.
 
 I have also skipped the authentication part. I will enable that as soon as TLS and OpenSSL start making 
 sense to me :)
+
+At this point of time, I do not have much insights on javascript. Hence used a script that is generated
+by AI. But working on that :)
 
 My Setup
 ========
